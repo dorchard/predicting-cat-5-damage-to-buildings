@@ -8,7 +8,7 @@
 - [conda](https://docs.conda.io/en/latest/)
 
 ## Getting started
-The main source codes are in the src/data_loading, with scripts to download data from DigitalGlobe. 
+The main source codes are in the `src/data_loading`, with scripts to download data from DigitalGlobe. 
 
 ### Setup:
 
@@ -30,9 +30,9 @@ The main source codes are in the src/data_loading, with scripts to download data
 
 4. For start, run the following commands in the terminal: `python src/data_loading/patch_utils.py`. There should be a prompt asking you to input a name for the hurricane. Press Enter straight away and the program should use the default testing data (which is smaller in size).
 
-Or you can type a hurricane name like `irma` or `test` or `test2`.
+Or you can type a hurricane name like `irma` or `test` or `test2` to access the data sets already described in this repo.
 
-The testing links can be found in data\processed\digital-globe-file-lists-tidied
+The testing links can be found in `data/processed/digital-globe-file-lists-tidied`
 
 ## Project Organization
 ```
