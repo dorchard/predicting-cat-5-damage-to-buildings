@@ -17,8 +17,8 @@ The main source codes are in the src/data_loading, with scripts to download data
        make create_environment
 
 2. This should give you everything you need in an virtual environment which can then be activated by:
-
-      conda activate ./env
+ 
+       conda activate ./env
 
 ### Workflow:
 
